@@ -1,0 +1,10 @@
+# This is a program that gets the modulus of numbers
+# date: 20/2/2024
+# name:Muchiri kimaru
+
+first_number = 7
+second_mumber = 2
+
+mod = first_number % second_mumber
+
+print("the modulus of the two numbers is :",mod")  

@@ -1,0 +1,7 @@
+print("my name is muchiri")
+print("i am 19 years old ")
+print("i come from kiambu county")
+print("i love basketball,hitting a good workout")
+print("--------")
+print("*********")
+print("##########")
