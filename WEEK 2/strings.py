@@ -44,6 +44,10 @@ print(subject.split(":"))
 age = 30
 height = 1.2
 print("i am {0} years old and {1} meters tall" .format(age,height))
+input = 'string'
+result = ''.join(reversed(input))
+print(result)
+
 
 
 
